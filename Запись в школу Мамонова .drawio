@@ -1,0 +1,406 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="Страница — 1" id="lM41hfLgLs7YcT5KFAmE">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-1" target="oR-bUZKb8-XkjS2_sRnT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-1" value="ЗАПИСЬ В ШКОЛУ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry width="827" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-2" target="oR-bUZKb8-XkjS2_sRnT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-2" target="oR-bUZKb8-XkjS2_sRnT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-2" value="РЕБЕНОК ИДЕТ&amp;nbsp;&lt;div&gt;В 1 КЛАСС?&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-4" value="Подходит ли ребенок под одну из категорий ниже?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Внеочередное зачисление&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- дети военнослужащих на СВО;&lt;/div&gt;&lt;div&gt;- дети погибших на СВО;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Первоочередное зачисление&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- дети сотрудников госслужбы&lt;/div&gt;&lt;div&gt;- дети сотрудников полиции&lt;/div&gt;&lt;div&gt;- дети военнослужащих&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Преимущественное зачисление&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- обучение братьев/сестер в данном учреждении&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3.25" y="270" width="273.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-6" value="Прием документов начинается 01.06.2025" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="553.5" y="125" width="266.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-8" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-9" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-10" target="oR-bUZKb8-XkjS2_sRnT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-10" value="Возраст ребенка на 01.09.2025 составляется от 6 лет и 6 месяцев до 8 лет?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="125" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-13" value="Прием ребенка на основании рассмотрения комиссией в Департаменте образования&amp;nbsp;&lt;div&gt;тел. 304-12-44&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-14" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.675;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-10" target="oR-bUZKb8-XkjS2_sRnT-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-18" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-19" value="Подача документов с 01.04.2025 по 30.06.2025" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="430" as="sourcePoint" />
+            <mxPoint x="269.96000000000004" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="430" as="sourcePoint" />
+            <mxPoint x="63.25" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-26" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-27" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-28" value="Необходимые документы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="650" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-29" value="- паспорт законного представителя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-28">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-30" value="- свидетельство о рождении ребенка&lt;div&gt;- копия документа о регистрации ребенка&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-28">
+          <mxGeometry y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-31" value="- документ об опеке (попечительстве), при наличии&amp;nbsp;&lt;div&gt;- справка с места работы&lt;/div&gt;&lt;div&gt;- копия заключения мед комиссии при наличии&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-28">
+          <mxGeometry y="130" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-32" value="Необходимые документы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-33" value="- паспорт законного представителя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-32">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-34" value="- свидетельство о рождении ребенка&lt;div&gt;- копия документа о регистрации ребенка&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-32">
+          <mxGeometry y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-35" value="- копия заключения мед комиссии при наличии&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-32">
+          <mxGeometry y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-40" value="Привязка территории прописки к обр. учреждению&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-41" value="Подача документов с 01.04.2025 по 30.06.2025" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-42" value="Подача документов с 06.07.2025 по 05.09.2025" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-43" value="Необходимые документы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="730" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-44" value="- паспорт законного представителя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-43">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-45" value="- свидетельство о рождении ребенка&lt;div&gt;- копия документа о регистрации ребенка&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-43">
+          <mxGeometry y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-46" value="- копия заключения мед комиссии при наличии&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oR-bUZKb8-XkjS2_sRnT-43">
+          <mxGeometry y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-19" target="oR-bUZKb8-XkjS2_sRnT-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="730" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-40" target="oR-bUZKb8-XkjS2_sRnT-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="730" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-40" target="oR-bUZKb8-XkjS2_sRnT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="730" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-41" target="oR-bUZKb8-XkjS2_sRnT-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="730" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-42" target="oR-bUZKb8-XkjS2_sRnT-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="730" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="920" as="sourcePoint" />
+            <mxPoint x="690" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.457;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="830" as="sourcePoint" />
+            <mxPoint x="120" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="830" as="sourcePoint" />
+            <mxPoint x="260" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="830" as="sourcePoint" />
+            <mxPoint x="380" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-56" value="Выберите способ подачи документов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3.25" y="960" width="516.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-57" value="Госуслуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3.25" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-58" value="МФЦ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-59" value="Образовательное учреждение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-60" value="Личная присутствие&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-61" value="Заказное письмо с уведомлением" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.431;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="sourcePoint" />
+            <mxPoint x="120" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-56" target="oR-bUZKb8-XkjS2_sRnT-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1020" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1020" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-59" target="oR-bUZKb8-XkjS2_sRnT-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1100" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-60" target="oR-bUZKb8-XkjS2_sRnT-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1260" as="sourcePoint" />
+            <mxPoint x="230" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="sourcePoint" />
+            <mxPoint x="420" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-70" value="Регистрация заявления в ГИС &quot;Единое цифровое пространство&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1240" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.363;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-58" target="oR-bUZKb8-XkjS2_sRnT-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="sourcePoint" />
+            <mxPoint x="690" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.417;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1430" as="sourcePoint" />
+            <mxPoint x="240" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-73" value="Проверка стадии заявления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-74" value="Госуслуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3.25" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-75" value="МФЦ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201.63" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-76" value="Образовательное учреждение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-77" value="Личная присутствие&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-78" value="Сайт обр. учреждения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-79" value="Ребенок принят в школу?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3.25" y="1600" width="566.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-73" target="oR-bUZKb8-XkjS2_sRnT-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1420" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.442;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-73" target="oR-bUZKb8-XkjS2_sRnT-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.418;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-74" target="oR-bUZKb8-XkjS2_sRnT-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.449;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-75" target="oR-bUZKb8-XkjS2_sRnT-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-77" target="oR-bUZKb8-XkjS2_sRnT-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.892;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-78" target="oR-bUZKb8-XkjS2_sRnT-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1630" as="sourcePoint" />
+            <mxPoint x="690" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-87" value="Дата принятия заявления&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1700" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-88" value="с 01.04.25 по 30.06.25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-89" value="Необходимо предоставить оригиналы в ОУ в течение 3 рабочих дней с даты завершения приема заявлений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1860" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-90" value="с 06.07.25 по 05.09.25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-91" value="Оригиналы предоставляются в ОУ в течении 5 рабочих дней с момента после приема заявлений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1860" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-79" target="oR-bUZKb8-XkjS2_sRnT-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1830" as="sourcePoint" />
+            <mxPoint x="690" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-87" target="oR-bUZKb8-XkjS2_sRnT-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1830" as="sourcePoint" />
+            <mxPoint x="690" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-87" target="oR-bUZKb8-XkjS2_sRnT-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1830" as="sourcePoint" />
+            <mxPoint x="690" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-88" target="oR-bUZKb8-XkjS2_sRnT-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1830" as="sourcePoint" />
+            <mxPoint x="690" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-90" target="oR-bUZKb8-XkjS2_sRnT-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1830" as="sourcePoint" />
+            <mxPoint x="690" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-97" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oR-bUZKb8-XkjS2_sRnT-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1660" as="sourcePoint" />
+            <mxPoint x="680" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1720" />
+              <mxPoint x="680" y="1720" />
+              <mxPoint x="680" y="1160" />
+              <mxPoint x="680" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-99" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-100" value="Подача документов через ГосУслуги (Образование. Дети &amp;gt;&amp;gt; Показать все &amp;gt;&amp;gt; Образование &amp;gt;&amp;gt; Перевод в новую школу&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553.5" y="220" width="266.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-101" value="В течение 5 дней со дня регистрации необходимо предоставить личное дело ученика в ОУ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553.5" y="340" width="266.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="sourcePoint" />
+            <mxPoint x="680" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR-bUZKb8-XkjS2_sRnT-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.471;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oR-bUZKb8-XkjS2_sRnT-100" target="oR-bUZKb8-XkjS2_sRnT-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="sourcePoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
